@@ -1,7 +1,3 @@
-# TeamCity
-http://build.linknode.co.uk:8080
-
-RoasdOnline - Continious & Package - ![TeamCity build status](http://build.linknode.co.uk:8080/app/rest/builds/buildType:id:ARAFleetTracker_Continious/statusIcon.svg)
 
 # RoadsOnline - Servers
 
@@ -12,9 +8,6 @@ RoasdOnline - Continious & Package - ![TeamCity build status](http://build.linkn
 
 - Dumgal Winter - https://dev.roadsonline.co.uk/Dumgal/Winter
 - Dumgal Admin - https://dev.roadsonline.co.uk/Dumgal/Admin
-
-## Staging  - These share a database with the live system (use carefully)
-- https://arafleettrackerwebsite-staging.azurewebsites.net
 
 ## Live  - Careful
 - ARA Winter - https://www.roadsonline.co.uk
